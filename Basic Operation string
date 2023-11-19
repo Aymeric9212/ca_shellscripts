@@ -1,5 +1,5 @@
 #!/bin/bash
-
+ 
 BUFFETT="Life is like a snowball. The important thing is finding wet snow and a really long hill."
 # write your code here
 ISAY=$BUFFETT
